@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Link to an Email Address</h2>
+
+<p>To create a link that opens in the user's email program (to let them send a new email), use mailto: inside the href attribute:</p>
+
+<p><a href="upi://pay?pa=kumar.hps.kilavalli@ybl&pn=Kumar Gowda&mc=0000&mode=02&purpose=00">Send email</a></p>
+
+</body>
+</html>
+
